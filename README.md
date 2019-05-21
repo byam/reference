@@ -8,3 +8,4 @@
   - Go
     - [Why Go? – Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python/)
     - [Frequently Asked Questions (FAQ)](https://golang.org/doc/faq)
+    - [The Go Programming Language Specification](https://golang.org/ref/spec)
